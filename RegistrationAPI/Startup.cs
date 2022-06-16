@@ -13,6 +13,7 @@ using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
 using Microsoft.AspNetCore.Mvc.Versioning;
 using RegistrationAPI.Configuration;
+using RegistrationAPI.Data;
 
 namespace RegistrationAPI
 {
@@ -31,6 +32,8 @@ namespace RegistrationAPI
         
            
             services.Configure<ConnectionStrings>(Configuration.GetSection("ConnectionStrings"));
+
+            services.AddDbContext<RegistrationContext>();
  
         
             services.AddControllers();

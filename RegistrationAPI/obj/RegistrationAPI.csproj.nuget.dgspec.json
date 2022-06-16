@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\domin\\OneDrive\\Bureaublad\\thuis\\eigen_projecten\\backend-ef-core-api\\RegistrationAPI\\RegistrationAPI.csproj": {}
+    "C:\\Users\\domin\\OneDrive\\Bureaublad\\thuis\\eigen_projecten\\backend-ef-core-api\\RegistrationAPI\\RegistrationAPI.csproj": {}
   },
   "projects": {
-    "c:\\Users\\domin\\OneDrive\\Bureaublad\\thuis\\eigen_projecten\\backend-ef-core-api\\RegistrationAPI\\RegistrationAPI.csproj": {
+    "C:\\Users\\domin\\OneDrive\\Bureaublad\\thuis\\eigen_projecten\\backend-ef-core-api\\RegistrationAPI\\RegistrationAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\domin\\OneDrive\\Bureaublad\\thuis\\eigen_projecten\\backend-ef-core-api\\RegistrationAPI\\RegistrationAPI.csproj",
+        "projectUniqueName": "C:\\Users\\domin\\OneDrive\\Bureaublad\\thuis\\eigen_projecten\\backend-ef-core-api\\RegistrationAPI\\RegistrationAPI.csproj",
         "projectName": "RegistrationAPI",
-        "projectPath": "c:\\Users\\domin\\OneDrive\\Bureaublad\\thuis\\eigen_projecten\\backend-ef-core-api\\RegistrationAPI\\RegistrationAPI.csproj",
+        "projectPath": "C:\\Users\\domin\\OneDrive\\Bureaublad\\thuis\\eigen_projecten\\backend-ef-core-api\\RegistrationAPI\\RegistrationAPI.csproj",
         "packagesPath": "C:\\Users\\domin\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\domin\\OneDrive\\Bureaublad\\thuis\\eigen_projecten\\backend-ef-core-api\\RegistrationAPI\\obj\\",
+        "outputPath": "C:\\Users\\domin\\OneDrive\\Bureaublad\\thuis\\eigen_projecten\\backend-ef-core-api\\RegistrationAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

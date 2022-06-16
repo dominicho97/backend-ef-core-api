@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GI/BHav/g7wOsX7H2QZ6MONpo1xeBCdOoymOsNe7P0pJ7cvp+Nq4bUjpu+tTU9DLdmxtvtbyFJY1kN6s9OMLzg==",
+  "dgSpecHash": "0JKdVrAH7Z3inwgZr+OopXueBC5Cw+M+P7GHE3HAmDkTSHIZfg7Fn0twa9QOMF/CMDlG82hAFyr2LrkTkDUvnQ==",
   "success": true,
-  "projectFilePath": "c:\\Users\\domin\\OneDrive\\Bureaublad\\thuis\\eigen_projecten\\backend-ef-core-api\\RegistrationAPI\\RegistrationAPI.csproj",
+  "projectFilePath": "C:\\Users\\domin\\OneDrive\\Bureaublad\\thuis\\eigen_projecten\\backend-ef-core-api\\RegistrationAPI\\RegistrationAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\domin\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\domin\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.1\\microsoft.aspnetcore.authentication.jwtbearer.5.0.1.nupkg.sha512",
