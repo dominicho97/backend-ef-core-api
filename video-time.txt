@@ -20,3 +20,5 @@ Configuration folder met C# class ConnectionStrings aanmaken
 1:51
 
 1:57 DbContext toevoegen bij RegistrationContext + bij Startup.cs
+
+2:11 IOptions,_connectionstring toevoegen bij RegistrationContext
