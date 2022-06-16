@@ -13,3 +13,5 @@ connectiesting toevoegen aan appsettings
 
 Configuration folder met C# class ConnectionStrings aanmaken
 1:22:46 Startup.cs
+
+1:29 folder Data met class RegistrationContext

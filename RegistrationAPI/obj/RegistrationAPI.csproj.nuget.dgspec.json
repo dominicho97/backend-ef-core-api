@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\domin\\OneDrive\\Bureaublad\\thuis\\eigen_projecten\\backend-ef-core-api\\RegistrationAPI\\RegistrationAPI.csproj": {}
+    "c:\\Users\\domin\\OneDrive\\Bureaublad\\thuis\\eigen_projecten\\backend-ef-core-api\\RegistrationAPI\\RegistrationAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\domin\\OneDrive\\Bureaublad\\thuis\\eigen_projecten\\backend-ef-core-api\\RegistrationAPI\\RegistrationAPI.csproj": {
+    "c:\\Users\\domin\\OneDrive\\Bureaublad\\thuis\\eigen_projecten\\backend-ef-core-api\\RegistrationAPI\\RegistrationAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\domin\\OneDrive\\Bureaublad\\thuis\\eigen_projecten\\backend-ef-core-api\\RegistrationAPI\\RegistrationAPI.csproj",
+        "projectUniqueName": "c:\\Users\\domin\\OneDrive\\Bureaublad\\thuis\\eigen_projecten\\backend-ef-core-api\\RegistrationAPI\\RegistrationAPI.csproj",
         "projectName": "RegistrationAPI",
-        "projectPath": "C:\\Users\\domin\\OneDrive\\Bureaublad\\thuis\\eigen_projecten\\backend-ef-core-api\\RegistrationAPI\\RegistrationAPI.csproj",
+        "projectPath": "c:\\Users\\domin\\OneDrive\\Bureaublad\\thuis\\eigen_projecten\\backend-ef-core-api\\RegistrationAPI\\RegistrationAPI.csproj",
         "packagesPath": "C:\\Users\\domin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\domin\\OneDrive\\Bureaublad\\thuis\\eigen_projecten\\backend-ef-core-api\\RegistrationAPI\\obj\\",
+        "outputPath": "c:\\Users\\domin\\OneDrive\\Bureaublad\\thuis\\eigen_projecten\\backend-ef-core-api\\RegistrationAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -61,6 +61,16 @@
             "Microsoft.AspNetCore.Mvc.Versioning": {
               "target": "Package",
               "version": "[5.0.0-preview.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.3, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
