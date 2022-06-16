@@ -10,3 +10,6 @@ connectiesting toevoegen aan appsettings
 1:13.45 connectieString toevoegen aan appsettingsfiles
 
 1:18:12 environment van Development naar Docker bij docker-compose-debug
+
+Configuration folder met C# class ConnectionStrings aanmaken
+1:22:46 Startup.cs
