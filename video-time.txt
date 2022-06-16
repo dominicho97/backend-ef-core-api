@@ -1,3 +1,12 @@
 25:00
 
 53:00 create database
+
+connectiesting toevoegen aan appsettings
+
+2x appsettings kopieren en veranderen naar appsettings.Docker en appsettings.Development.json
+
+1:11:42 klaar met appsettings files
+1:13.45 connectieString toevoegen aan appsettingsfiles
+
+1:18:12 environment van Development naar Docker bij docker-compose-debug
